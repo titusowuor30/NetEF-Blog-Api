@@ -9,4 +9,4 @@ Backend api with .NET EF Core and Mysql database for the vue-blog
 ### $ dotnet run
 
 # Requirements
-## Install .NET 5 SDK
+## Install <a href="https://dotnet.microsoft.com/download">.NET 5 SDK</a> 
